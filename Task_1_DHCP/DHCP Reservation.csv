@@ -1,0 +1,4 @@
+hostname,mac_address,reserved_ip
+client1,30:13:8B:C4:06:3D,192.168.10.10
+client2,00:15:5D:BB:2C:59,192.168.10.11
+client3,9C:2D:CD:DE:B3:60,192.168.10.12
